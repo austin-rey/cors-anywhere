@@ -1,0 +1,1 @@
+# NodeJS proxy to handle proxied requests with invalid CORS headers
